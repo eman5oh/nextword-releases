@@ -4,6 +4,15 @@
         <title>NextWord</title>
         <item>
             <title>0.2.0-beta.1</title>
+            <pubDate>Mon, 06 Jul 2026 19:55:29 -0400</pubDate>
+            <sparkle:version>186</sparkle:version>
+            <sparkle:shortVersionString>0.2.0-beta.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.0-beta.1/NextWord-0.2.0-beta.1.dmg" length="23693708" type="application/octet-stream" sparkle:edSignature="BMxQNH8Dg2Y7S291qjwighz6ZkokzmPgTpfpKZAZJtndgja7rz8hK4dcDCPR0TIZVr0r9oYYhVRauAydfptLBQ=="/>
+        </item>
+        <item>
+            <title>0.2.0-beta.1</title>
             <pubDate>Mon, 06 Jul 2026 19:49:20 -0400</pubDate>
             <sparkle:version>185</sparkle:version>
             <sparkle:shortVersionString>0.2.0-beta.1</sparkle:shortVersionString>
