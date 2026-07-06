@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>NextWord</title>
+        <item>
+            <title>0.2.0-beta.1</title>
+            <pubDate>Mon, 06 Jul 2026 19:41:54 -0400</pubDate>
+            <sparkle:version>183</sparkle:version>
+            <sparkle:shortVersionString>0.2.0-beta.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.0-beta.1/NextWord-0.2.0-beta.1.dmg" length="22737358" type="application/octet-stream" sparkle:edSignature="3hTOZqz+PAsUKFt3Kd3p5uuX//+9Dy7yfMV/22r7dWES+Mb6XYuGI9SS7IMNH/hZ9CEpqOxDuI14avzTva+xCw=="/>
+        </item>
+    </channel>
+</rss>
