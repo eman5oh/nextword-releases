@@ -3,13 +3,25 @@
     <channel>
         <title>NextWord</title>
         <item>
+            <title>0.2.0-beta.2</title>
+            <pubDate>Wed, 08 Jul 2026 19:35:17 -0400</pubDate>
+            <sparkle:version>252</sparkle:version>
+            <sparkle:shortVersionString>0.2.0-beta.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.0-beta.2/NextWord-0.2.0-beta.2.dmg" length="23799650" type="application/octet-stream" sparkle:edSignature="LVVrQCmEVpI2DHCnkOeS2Sc++HYGYgnG0IjsPaYAD4kVX9QlvO4IaROPwdDSmJYivcrSuQhD56qCoAXoD43iBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.0-beta.2/NextWord252-187.delta" sparkle:deltaFrom="187" length="2445802" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fXjs4YG2xefWfFLwviMZDrLwRD746ypayGfPBDoUye02s3rIoQBClTGbsiIj2XifxiS4iv/uFB9t20FWuBCUDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.0-beta.1</title>
             <pubDate>Mon, 06 Jul 2026 19:57:37 -0400</pubDate>
             <sparkle:version>187</sparkle:version>
             <sparkle:shortVersionString>0.2.0-beta.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.0-beta.1/NextWord-0.2.0-beta.1.dmg" length="23693709" type="application/octet-stream" sparkle:edSignature="2TQYGup74xuJMl46fSUaFnJGXLVp7cN0z3SXskcVVZhtcayNQRYgMAfVrT+KSr9GcSHG8EpBoCSlASlJ+NXKAg=="/>
+            <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.0-beta.2/NextWord-0.2.0-beta.1.dmg" length="23693709" type="application/octet-stream" sparkle:edSignature="2TQYGup74xuJMl46fSUaFnJGXLVp7cN0z3SXskcVVZhtcayNQRYgMAfVrT+KSr9GcSHG8EpBoCSlASlJ+NXKAg=="/>
         </item>
         <item>
             <title>0.2.0-beta.1</title>
@@ -19,15 +31,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.0-beta.1/NextWord-0.2.0-beta.1.dmg" length="23693708" type="application/octet-stream" sparkle:edSignature="BMxQNH8Dg2Y7S291qjwighz6ZkokzmPgTpfpKZAZJtndgja7rz8hK4dcDCPR0TIZVr0r9oYYhVRauAydfptLBQ=="/>
-        </item>
-        <item>
-            <title>0.2.0-beta.1</title>
-            <pubDate>Mon, 06 Jul 2026 19:49:20 -0400</pubDate>
-            <sparkle:version>185</sparkle:version>
-            <sparkle:shortVersionString>0.2.0-beta.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.0-beta.1/NextWord-0.2.0-beta.1.dmg" length="23691774" type="application/octet-stream" sparkle:edSignature="e3rd6zBMHpuw+/Lt7Ogih1+OjecEbtDHBU0Ok6CQhAVvEvJKsjpXyR7+CgZwQhyGMv7zgUx0ZeqUjtviWyR2Bg=="/>
         </item>
     </channel>
 </rss>
