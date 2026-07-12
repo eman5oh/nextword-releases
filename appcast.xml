@@ -3,38 +3,13 @@
     <channel>
         <title>NextWord</title>
         <item>
-            <title>0.2.0-beta.3</title>
-            <pubDate>Thu, 09 Jul 2026 12:29:53 -0400</pubDate>
-            <sparkle:version>282</sparkle:version>
-            <sparkle:shortVersionString>0.2.0-beta.3</sparkle:shortVersionString>
+            <title>0.2.0-beta.4</title>
+            <pubDate>Sat, 11 Jul 2026 20:01:25 -0400</pubDate>
+            <sparkle:version>318</sparkle:version>
+            <sparkle:shortVersionString>0.2.0-beta.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.0-beta.3/NextWord-0.2.0-beta.3.dmg" length="23767991" type="application/octet-stream" sparkle:edSignature="mA2C6hD59eaktNzheaQwcQJJVY3u5oCIyTG5G05/1uwXZcIc1Eg+LwXaWtV5OeJtwzny05S/QW8XxSMjTCrICw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.0-beta.3/NextWord282-252.delta" sparkle:deltaFrom="252" length="1686382" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Qbwz0FkUxFbGZvbSYPTFm5HGk08M2lsclD4WL5xd7k+4QG9qPGbp30HVQw907ieu51i8Hv+9mhFUAajLuQqbCg=="/>
-                <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.0-beta.3/NextWord282-187.delta" sparkle:deltaFrom="187" length="2579118" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="huWOMOvVM0JVrsoGdGlLolSr2IQ4ZABR4FavXShV1/QkuWZPgG6+3Fr3SDfyzWZXj2axZdKE59Ss7vrYyj8WDA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2.0-beta.2</title>
-            <pubDate>Wed, 08 Jul 2026 19:35:17 -0400</pubDate>
-            <sparkle:version>252</sparkle:version>
-            <sparkle:shortVersionString>0.2.0-beta.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.0-beta.3/NextWord-0.2.0-beta.2.dmg" length="23799650" type="application/octet-stream" sparkle:edSignature="LVVrQCmEVpI2DHCnkOeS2Sc++HYGYgnG0IjsPaYAD4kVX9QlvO4IaROPwdDSmJYivcrSuQhD56qCoAXoD43iBA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.0-beta.2/NextWord252-187.delta" sparkle:deltaFrom="187" length="2445802" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fXjs4YG2xefWfFLwviMZDrLwRD746ypayGfPBDoUye02s3rIoQBClTGbsiIj2XifxiS4iv/uFB9t20FWuBCUDQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2.0-beta.1</title>
-            <pubDate>Mon, 06 Jul 2026 19:57:37 -0400</pubDate>
-            <sparkle:version>187</sparkle:version>
-            <sparkle:shortVersionString>0.2.0-beta.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.0-beta.3/NextWord-0.2.0-beta.1.dmg" length="23693709" type="application/octet-stream" sparkle:edSignature="2TQYGup74xuJMl46fSUaFnJGXLVp7cN0z3SXskcVVZhtcayNQRYgMAfVrT+KSr9GcSHG8EpBoCSlASlJ+NXKAg=="/>
+            <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.0-beta.4/NextWord-0.2.0-beta.4.dmg" length="23883055" type="application/octet-stream" sparkle:edSignature="mIn3QLv1jlrEsLnNKdYY27qBCYdOZ4JyS9MG0gNv1XXv24TdfosteHZIBTPzRyMXq1mUxLM1NQEvxjrE2/euCA=="/>
         </item>
     </channel>
 </rss>
