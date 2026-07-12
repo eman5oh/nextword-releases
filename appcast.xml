@@ -3,13 +3,25 @@
     <channel>
         <title>NextWord</title>
         <item>
+            <title>0.2.0-beta.5</title>
+            <pubDate>Sun, 12 Jul 2026 09:59:37 -0400</pubDate>
+            <sparkle:version>340</sparkle:version>
+            <sparkle:shortVersionString>0.2.0-beta.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.0-beta.5/NextWord-0.2.0-beta.5.dmg" length="23902920" type="application/octet-stream" sparkle:edSignature="Iz7r2tY/yVyrAm1hcZiWwfDtuTRIJ1JZ77CxOPORYaKPAsj5Op9WGb0Aj1V4UHhpFCvbW05Zs5FNjaRibm2dAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.0-beta.5/NextWord340-318.delta" sparkle:deltaFrom="318" length="1753026" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="r181rUgexE7kdiPF2l3Bw25Abbgwf08ucU9D/Jzo+J9fE1+8LwHg3l2c0MDNYqn3hxf99bpDMX7o/uDwDECsDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.0-beta.4</title>
             <pubDate>Sat, 11 Jul 2026 20:01:25 -0400</pubDate>
             <sparkle:version>318</sparkle:version>
             <sparkle:shortVersionString>0.2.0-beta.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.0-beta.4/NextWord-0.2.0-beta.4.dmg" length="23883055" type="application/octet-stream" sparkle:edSignature="mIn3QLv1jlrEsLnNKdYY27qBCYdOZ4JyS9MG0gNv1XXv24TdfosteHZIBTPzRyMXq1mUxLM1NQEvxjrE2/euCA=="/>
+            <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.0-beta.5/NextWord-0.2.0-beta.4.dmg" length="23883055" type="application/octet-stream" sparkle:edSignature="mIn3QLv1jlrEsLnNKdYY27qBCYdOZ4JyS9MG0gNv1XXv24TdfosteHZIBTPzRyMXq1mUxLM1NQEvxjrE2/euCA=="/>
         </item>
     </channel>
 </rss>
