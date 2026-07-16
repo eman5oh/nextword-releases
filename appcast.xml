@@ -3,13 +3,28 @@
     <channel>
         <title>NextWord</title>
         <item>
+            <title>0.2.8-beta</title>
+            <pubDate>Wed, 15 Jul 2026 22:13:21 -0400</pubDate>
+            <sparkle:version>385</sparkle:version>
+            <sparkle:shortVersionString>0.2.8-beta</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.8-beta/NextWord-0.2.8-beta.dmg" length="24016271" type="application/octet-stream" sparkle:edSignature="NxRNGKeglcD3C94hi4TbmPkUiQArzxbt4HlOs2csKAx1WpWHoC/1y71fLZfn0Axx7SQW6NIFP8/UskoXEDxLBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.8-beta/NextWord385-353.delta" sparkle:deltaFrom="353" length="2020258" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OD99BSogIPDh+snSec2xj926OKGonn8mEfFwMehlQxzq+rw4EtI6i0C41l1+CRu7diQC895ThswfvXHK1mqKBw=="/>
+                <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.8-beta/NextWord385-348.delta" sparkle:deltaFrom="348" length="2114298" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IL1IiUP1qrb4pEJqwl59Fbq8rbvBO8vhIc9ASM6Et03EJM9FTSZiTmDPpgCgTLuyvP9uu9Z6NdDHlfyw0Ha9CA=="/>
+                <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.8-beta/NextWord385-340.delta" sparkle:deltaFrom="340" length="2070450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Z2XBZY1PxbxQreXEkPktVt6q++IYPCYFymdJZkuAIF7Py4f9oWbPxePqKlPLprnRsFrW02r8qM8ynJdNkH8sBw=="/>
+                <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.8-beta/NextWord385-318.delta" sparkle:deltaFrom="318" length="2362982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LHK76zL5F4V5aktTno17n/pS/3NHvIjemjuuUIaYNYaV4lRc6PyOjsEYQTcwE/e1742j4uooj26zma96MoulDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.7-beta</title>
             <pubDate>Sun, 12 Jul 2026 19:28:13 -0400</pubDate>
             <sparkle:version>353</sparkle:version>
             <sparkle:shortVersionString>0.2.7-beta</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.7-beta/NextWord-0.2.7-beta.dmg" length="23913484" type="application/octet-stream" sparkle:edSignature="qZuaQlLxXxI5KG9m+2vNp8CsbFYpPjFhFimFyOqD839g8Qgt/7WUfoajjnp6iQCvjWyeRFAg6dFNwwzFo3KKBg=="/>
+            <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.8-beta/NextWord-0.2.7-beta.dmg" length="23913484" type="application/octet-stream" sparkle:edSignature="qZuaQlLxXxI5KG9m+2vNp8CsbFYpPjFhFimFyOqD839g8Qgt/7WUfoajjnp6iQCvjWyeRFAg6dFNwwzFo3KKBg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.7-beta/NextWord353-348.delta" sparkle:deltaFrom="348" length="1207298" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fciZPWNRo3/ghBDSbuLexrn2aUQaA+PQgKhG/ZTAXQlN1c8CcxiQ9CC0B9hvXDUMy8Y6GWtO25/OG0yWJn3QCA=="/>
                 <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.7-beta/NextWord353-340.delta" sparkle:deltaFrom="340" length="1637834" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="i2NsAAwbzVkwie9xOOnNXl7yTwYaW7594/iXJZ+L5tzqT+yhhSeKo8zrDr8togoyHPR6hF2JPk6gdCrP2irrBQ=="/>
@@ -23,22 +38,10 @@
             <sparkle:shortVersionString>0.2.0-beta.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.7-beta/NextWord-0.2.0-beta.6.dmg" length="23910465" type="application/octet-stream" sparkle:edSignature="1sgw05Edr2XVqpMRIxG9/LXv1Sx54DUCk3gIkfslgje8UAc12o69/F9xt3sF/Usd3Nr8+6WykEO+mq2x1rBIAA=="/>
+            <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.8-beta/NextWord-0.2.0-beta.6.dmg" length="23910465" type="application/octet-stream" sparkle:edSignature="1sgw05Edr2XVqpMRIxG9/LXv1Sx54DUCk3gIkfslgje8UAc12o69/F9xt3sF/Usd3Nr8+6WykEO+mq2x1rBIAA=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.0-beta.6/NextWord348-340.delta" sparkle:deltaFrom="340" length="1523506" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HrV43kfuWV3X8OgtjVInRc1qY6UIVAqTKYjzOOJcnPzrPODa6yaVztbw6nMqchvOJWIKEGDUYlu3wIDy3D4+Cw=="/>
                 <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.0-beta.6/NextWord348-318.delta" sparkle:deltaFrom="318" length="1775250" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AtnUg3fPN1wxUSgbatrpFqpMju0pbrF5+jW79Nf7EupEbgOinMZXVvBD0luPMmiG46WFlocRsdUtWLmZXNPKDQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2.0-beta.5</title>
-            <pubDate>Sun, 12 Jul 2026 09:59:37 -0400</pubDate>
-            <sparkle:version>340</sparkle:version>
-            <sparkle:shortVersionString>0.2.0-beta.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.7-beta/NextWord-0.2.0-beta.5.dmg" length="23902920" type="application/octet-stream" sparkle:edSignature="Iz7r2tY/yVyrAm1hcZiWwfDtuTRIJ1JZ77CxOPORYaKPAsj5Op9WGb0Aj1V4UHhpFCvbW05Zs5FNjaRibm2dAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/eman5oh/nextword-releases/releases/download/v0.2.0-beta.5/NextWord340-318.delta" sparkle:deltaFrom="318" length="1753026" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="r181rUgexE7kdiPF2l3Bw25Abbgwf08ucU9D/Jzo+J9fE1+8LwHg3l2c0MDNYqn3hxf99bpDMX7o/uDwDECsDA=="/>
             </sparkle:deltas>
         </item>
     </channel>
